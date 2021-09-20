@@ -8,7 +8,7 @@ import {WrappedERC1155Token} from "./WrappedERC1155Token.sol";
  */
 contract SoundERC1155 is WrappedERC1155Token {
     
-   function __LOUD1155_init(
+   function __SOUND1155_init(
         address admin,
         string calldata uri,
         address _wrapperTemplate,
